@@ -9,4 +9,4 @@ You have to set the x,y co-ordinates manually for one time<br/>
 That's it you are good to go <br/>
 
 Note : -
-if you have names in a csv file then you can use the pandas 
+if you have names in a csv file then you can use the pandas library to read the names
