@@ -1,4 +1,4 @@
-# CertificateGenerator
+# Certificate Generator
 Now Generate n no. of certificates easily
 # Requirements
 1 - A Template for the certificate<br/>
