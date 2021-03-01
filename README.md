@@ -1,4 +1,4 @@
-# Certificate Generator
+# bulk_certificate_generator
 Now Generate n no. of certificates easily
 # Requirements
 1 - A Template for the certificate<br/>
